@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project'slink is [React-Slider-B-Bad ](https://react-slider-b-bad.netlify.app).
 
 ## Available Scripts
 
